@@ -29,3 +29,7 @@ Always leave a buffer space of at least 50% of the logo's width or height, as sh
 - Apply styles like shadows, reflections, gradients, bevels, blur etc. to the logo.
 - Apply effects like lens flare, light rays, casting shadows etc. on top of the logo or its buffer space.
 - Use a different typeface to imitate our logo.
+
+### Exceptions
+
+If you need to display our logo in any way not listed or not permitted in this document, please drop us a line at oi@current.com.br.
