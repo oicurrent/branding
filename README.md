@@ -33,3 +33,10 @@ Always leave a buffer space of at least 50% of the logo's width or height, as sh
 ### Exceptions
 
 If you need to display our logo in any way not listed or not permitted in this document, please drop us a line at oi@current.com.br.
+
+## Colors
+
+- Blue: `#1166ff`
+- Black: `#000000`
+- Medium gray: `#aaaaaa`
+- Light gray: `#dddddd`
