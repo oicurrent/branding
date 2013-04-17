@@ -4,11 +4,11 @@ In this repo you can find our logo in several formats.
 
 ## Usage Guidelines
 
-Always leave a buffer space of at least 20% of the logo's width or height, as shown in the examples below:
+Always leave a buffer space of at least 50% of the logo's width or height, as shown in the examples below:
 
-![image](https://f.cloud.github.com/assets/62244/388698/0e26e85c-a6e2-11e2-92d9-8fd5f20dc3b1.png)
+![Current's Primary Blue Logo - Buffer Space](https://f.cloud.github.com/assets/62244/389452/2a4b77ce-a709-11e2-8cb3-c5251cfd197e.png)
 
-![image](https://f.cloud.github.com/assets/62244/388710/636ab6e0-a6e2-11e2-879c-27c9cff8d526.png)
+![Current's Framed Blue Logo - Buffer Space](https://f.cloud.github.com/assets/62244/389453/311dc7e6-a709-11e2-902f-dba34f716109.png)
 
 ### Do:
 
