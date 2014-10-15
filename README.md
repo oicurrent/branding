@@ -36,7 +36,7 @@ If you need to display our logo in any way that is not listed or permitted in th
 
 ## Colors
 
-- Blue: `#1166ff`
+- Blue: `#1166cc`
 - Black: `#000000`
 - Medium gray: `#aaaaaa`
 - Light gray: `#dddddd`
